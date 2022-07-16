@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
 import React, { useEffect, useState } from "react";
 
-const rnAutoCountDown = ({
+const RnAutoCountDown = ({
   minute,
   second,
   hour,
@@ -94,6 +94,6 @@ const rnAutoCountDown = ({
   );
 };
 
-export default rnAutoCountDown;
+export default RnAutoCountDown;
 
 const styles = StyleSheet.create({});

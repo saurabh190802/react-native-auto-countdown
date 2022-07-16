@@ -1,2 +1,2 @@
-import RnOtpTimer from "./components/rnAutoCountDown";
-export default rnAutoCountDown;
+import RnAutoCountDown from "./components/RnAutoCountDown";
+export default RnAutoCountDown;
