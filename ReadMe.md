@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/75023861/179362336-c4db9712-64a2-43b0-
 ```sh
 import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
-import rnAutoCountDown from 'react-native-auto-countdown';
+import RnAutoCountDown from 'react-native-auto-countdown';
 
 const App = () => {
   return (
@@ -40,7 +40,7 @@ const App = () => {
         justifyContent: 'center',
       }}>
       <View style={{alignSelf: 'center'}}>
-        <rnAutoCountDown
+        <RnAutoCountDown
           hour={1}
           minute={1}
           second={1}
