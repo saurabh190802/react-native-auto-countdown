@@ -1,5 +1,31 @@
 {
   "dependencies": {
     "user": "^0.0.0"
-  }
+  },
+  "name": "react-native-auto-countdown",
+  "version": "1.0.0",
+  "description": "This component will start a countdown timer.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabh190802/react-native-auto-countdown.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "countdown",
+    "timer",
+    "auto",
+    "time"
+  ],
+  "author": "saurabh satapathy <saurabhsatapathy0@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabh190802/react-native-auto-countdown/issues"
+  },
+  "homepage": "https://github.com/saurabh190802/react-native-auto-countdown#readme"
 }
