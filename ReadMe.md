@@ -8,6 +8,12 @@
 npm i react-native-auto-countdown
 ```
 
+
+https://user-images.githubusercontent.com/75023861/179362336-c4db9712-64a2-43b0-b052-1b83ff3cd8a4.mp4
+
+
+
+
 | props      | details                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------- |
 | minute     | give the minutes you want for countdown (must given prop if nothing to give then just give 0 ) |
